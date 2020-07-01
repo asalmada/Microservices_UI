@@ -95,6 +95,14 @@ function orderItem(itemID){
 	</tr>
 </table>
 <h2>What Aircraft Maintenance Workers Need to Know about COVID-19</h2>
+<h3>
+    Coronavirus disease 2019 (COVID-19) is a respiratory illness caused by a virus called SARS-CoV-2. Symptoms often include a fever, cough, or shortness of breath. Our understanding of how the virus spreads is evolving as we learn more about it, so check the CDC website for the latest information. The virus is thought to spread mainly from person-to-person:
+</h3>
+<ul>
+    <li>Between people who are in close contact with one another (within about 6 feet).</li>
+    <li>Through respiratory droplets produced when an infected person coughs, sneezes, or talks.</li>
+</ul>
+<h3>Recent studies indicate that the virus can be spread by people before they develop symptoms or who never develop symptoms. It also may be possible that a person can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or possibly their eyes. However, this is not thought to be the main way the virus spreads. Older adults and people of any age who have serious underlying medical conditions may be at higher risk for more serious complications from COVID-19.</h3>
 <body onload="loadItems(items)">
 	<div class="container">
 		<div id='boxes' class="notes"></div>
