@@ -85,13 +85,13 @@ function orderItem(itemID){
 </script>
 <html>
 <head>
-	<title>Microservices Sample</title>
+	<title>Acme Airlines COVID-19 Safety Store</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 	<link rel="stylesheet" href="style.css">
 </head>
 <table class="headerTable">
 	<tr>
-		<td><span class="pageTitle"><h1>Microservices Sample</h1></span></td> 
+		<td><span class="pageTitle"><h1>Acme Airlines COVID-19 Safety Store</h1></span></td> 
 	</tr>
 </table>
 <body onload="loadItems(items)">
