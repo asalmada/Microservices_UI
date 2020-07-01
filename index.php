@@ -52,7 +52,7 @@ function showErrorMessage(message) {
 function addItem(item){
 	var div = document.createElement('div');
 	div.className = 'item';
-	div.innerHTML = "<div class ='well'><img width='100%' height='auto' src = '"+item.imgsrc+"'/><br><button onclick='orderItem(\""+item._id+"\")'><b>Request</b></button><br><u>"+item.name+"</u><br>"+item.description+"<br><b>$"+item.usaDollarPrice + "</b></div>";
+	div.innerHTML = "<div class ='well'><img width='100%' height='auto' src = '"+item.imgsrc+"'/><br><button onclick='orderItem(\""+item._id+"\")'><b>Request</b></button><br><u>"+item.name+"</u><br>"+item.description+"<br><p style='margin: 0; padding-bottom: 20px;'><b>$"+item.usaDollarPrice + "</b></p></div>";
 	document.getElementById('boxes').appendChild(div);
 }
 
