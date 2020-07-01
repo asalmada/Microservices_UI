@@ -94,6 +94,7 @@ function orderItem(itemID){
 		<td><span class="pageTitle"><h1>Acme Airlines COVID-19 Safety Store</h1></span></td> 
 	</tr>
 </table>
+<h2>What Aircraft Maintenance Workers Need to Know about COVID-19</h2>
 <body onload="loadItems(items)">
 	<div class="container">
 		<div id='boxes' class="notes"></div>
